@@ -1,0 +1,66 @@
+;
+  font-family: "Montserrat", sans-serif;
+}
+
+
+h1{
+  text-align:center;
+  color:white;
+  margin:20px;
+  margin-bottom:20px;
+  font-size: 50px;
+}
+
+
+h2{
+  ;
+  color:white;
+  margin: 10px;
+  
+}
+
+#pillNav2{
+  color:red;
+  background-color:red;
+  margin: auto;
+  margin-top:10px;
+  width:50%;
+  
+ }
+
+
+
+
+
+  
+  
+}
+
+#carouselExample img{
+  postion:absolute;
+  top:0;
+}
+
+#flyme{
+  height:700px;
+}
+
+#usa{
+  height:700px;
+}
+
+#diy{
+  height:700px;
+}
+
+p{
+  color:white;
+  width:
+  text-align:center;
+  margin: 10px;
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #fd0d0d;
+    --bs-btn-border-color: #fd0d0d;
